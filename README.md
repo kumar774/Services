@@ -10,15 +10,15 @@
 
 - **Layout 1 com Vendedores**
 
-![](https://i.imgur.com/JQdPjyZ.png)
+![](https://imgur.com/yl1pw0b.png)
 
 - **Layout 2 Basico**
 
-![](https://i.imgur.com/JQdPjyZ.png)
+![](https://imgur.com/bJVR6SV.png)
 
 - **Layout 2 com Vendedores**
 
-![](https://i.imgur.com/JQdPjyZ.png)
+![](https://imgur.com/UvDPkVp.png)
 
 - **Layout CHX com Vendedores e 2 devices**
 
