@@ -22,7 +22,7 @@
 
 - **Layout CHX com Vendedores e 2 devices**
 
-![](https://i.imgur.com/JQdPjyZ.png)
+![](https://imgur.com/N6JowFc.png)
 
 - **Layout 3 Basico**
 
