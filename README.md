@@ -6,7 +6,7 @@
 
 - **Layout 1 Basico**
 
-![](https://i.imgur.com/JQdPjyZ.png)
+![](https://imgur.com/SkpZne7.png)
 
 - **Layout 1 com Vendedores**
 
